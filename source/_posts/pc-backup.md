@@ -1,5 +1,11 @@
 ---
 title: PCのバックアップ
+date: 2020/08/16 6:42:00
+categories:
+- [パソコン]
+tags:
+- [Google]
+- [Amazon]
 ---
 
 # 概要
