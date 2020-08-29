@@ -1,5 +1,5 @@
 ---
-title: TypeError: '_Environ' object is not callable
+title: TypeError '_Environ' object is not callable
 date: 2020/08/22 17:57:00
 categories:
 - [python]
