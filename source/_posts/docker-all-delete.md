@@ -17,11 +17,13 @@ docker system prune
 
 下記のように聞かれます。
 
+```
 >WARNING! This will remove:
 >  - all stopped containers
 >  - all networks not used by at least one container
 >  - all dangling images
 >  - all dangling build cache
 >Are you sure you want to continue? [y/N] 
+```
 
 `y`で全て消されます。
